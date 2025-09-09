@@ -1,4 +1,4 @@
-Select a PR template:
+Please click "Preview" above and select a template:
 * [Code](?expand=1&template=code.md)
 * [Art](?expand=1&template=art.md)
 * [Feature into Dev](?expand=1&template=into_dev.md)
